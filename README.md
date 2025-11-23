@@ -1,1 +1,1 @@
-<a href="https://hits.sh/github.com/mylovergirl/hits/"><img alt="Hits" src="https://hits.sh/github.com/mylovergirl/hits.svg?style=plastic&label=lovelies%20%E0%AD%A8%E0%A7%8E&color=e28da0&labelColor=5c1f3d"/></a>
+<p align="center"><a href="https://hits.sh/github.com/mylovergirl/hits/"><img alt="Hits" src="https://hits.sh/github.com/mylovergirl/hits.svg?style=plastic&label=lovelies%20%E0%AD%A8%E0%A7%8E&color=e28da0&labelColor=5c1f3d"/></a><p align="center">
